@@ -1,0 +1,553 @@
+﻿protein,assay,fullname,uniprot,chr,begin,end
+CHL1,cardiom,Neural cell adhesion molecule L1-like protein ,O00533,3,196763,409417
+NRP1,cardiom,Neuropilin-1 ,O14786,10,33177492,33336262
+PLXNB2,cardiom,Plexin-B2 ,O15031,22,50274979,50307646
+FCGR3B,cardiom,Low affinity immunoglobulin gamma Fc region receptor III-B ,O75015,1,161623196,161631963
+LILRB5,cardiom,Leukocyte immunoglobulin-like receptor subfamily B member 5 ,O75023,19,54249421,54257301
+APOM,cardiom,Apolipoprotein M ,O95445,6,31652416,31658210
+SOD1,cardiom,Superoxide dismutase [Cu-Zn] ,P00441,21,31659666,31668931
+CA1,cardiom,Carbonic anhydrase 1 ,P00915,8,85327608,85379014
+TIMP1,cardiom,Metalloproteinase inhibitor 1 ,P01033,X,47582408,47586789
+CST3,cardiom,Cystatin-C ,P01034,20,23626706,23638473
+ANG,cardiom,Angiogenin ,P03950,14,20684177,20698971
+F11,cardiom,Coagulation factor XI ,P03951,4,186266189,186289681
+PROC,cardiom,Vitamin K-dependent protein C ,P04070,2,127418427,127429242
+SERPINA5,cardiom,Plasma serine protease inhibitor ,P05154,14,94561442,94593118
+ICAM1,cardiom,Intercellular adhesion molecule 1 ,P05362,19,10271093,10286615
+REG1A,cardiom,Lithostathine-1-alpha ,P05451,2,79120362,79123409
+SERPINA7,cardiom,Thyroxine-binding globulin ,P05543,X,106032435,106038727
+C2,cardiom,Complement C2 ,P06681,6,31897785,31945672
+GP1BA,cardiom,Platelet glycoprotein Ib alpha chain ,P07359,17,4932277,4935023
+CA3,cardiom,Carbonic anhydrase 3 ,P07451,8,85373436,85449040
+PRSS2,cardiom,Trypsin-2 ,P07478,7,142760398,142774564
+UMOD,cardiom,Uromodulin ,P07911,16,20333052,20356301
+MET,cardiom,Hepatocyte growth factor receptor ,P08581,7,116672196,116798377
+F7,cardiom,Coagulation factor VII ,P08709,13,113105788,113120685
+IGLC2,cardiom,Ig lambda-2 chain C regions ,P0DOY2,22,22900976,22901437
+KIT,cardiom,Mast/stem cell growth factor receptor Kit ,P10721,4,54657918,54740715
+ITGAM,cardiom,Integrin alpha-M ,P11215,16,31259967,31332892
+MBL2,cardiom,Mannose-binding protein C ,P11226,10,52765380,52772784
+FCGR2A,cardiom,Low affinity immunoglobulin gamma Fc region receptor II-a ,P12318,1,161505430,161524013
+CDH1,cardiom,Cadherin-1 ,P12830,16,68737292,68835541
+CCL5,cardiom,C-C motif chemokine 5 ,P13501,17,35871491,35880793
+NCAM1,cardiom,Neural cell adhesion molecule 1 ,P13591,11,112961247,113278436
+CD59,cardiom,CD59 glycoprotein ,P13987,11,33703010,33736479
+SELL,cardiom,L-selectin ,P14151,1,169690665,169711702
+NID1,cardiom,Nidogen-1 ,P14543,1,235975830,236065109
+CD46,cardiom,Membrane cofactor protein ,P15529,1,207752054,207795513
+ST6GAL1,cardiom,"Beta-galactoside alpha-2,6-sialyltransferase 1 ",P15907,3,186930325,187078553
+IL7R,cardiom,Interleukin-7 receptor subunit alpha ,P16871,5,35852695,35879603
+ENG,cardiom,Endoglin ,P17813,9,127815013,127854658
+IGFBP3,cardiom,Insulin-like growth factor-binding protein 3 ,P17936,7,45912245,45921874
+PAM,cardiom,Peptidyl-glycine alpha-amidating monooxygenase ,P19021,5,102753981,103031105
+VCAM1,cardiom,Vascular cell adhesion protein 1 ,P19320,1,100719742,100739045
+CR2,cardiom,Complement receptor type 2 ,P20023,1,207454230,207489895
+TCN2,cardiom,Transcobalamin-2 ,P20062,22,30607003,30627271
+TNXB,cardiom,Tenascin-X ,P22105,6,32041153,32115334
+CA4,cardiom,Carbonic anhydrase 4 ,P22748,17,60149942,60170899
+GNLY,cardiom,Granulysin ,P22749,2,85685175,85698852
+CES1,cardiom,Liver carboxylesterase 1 ,P23141,16,55802851,55833337
+IGFBP6,cardiom,Insulin-like growth factor-binding protein 6 ,P24592,12,53097436,53102345
+TNC,cardiom,Tenascin ,P24821,9,115019575,115118257
+DPP4,cardiom,Dipeptidyl peptidase 4 ,P27487,2,161992245,162074394
+ICAM3,cardiom,Intercellular adhesion molecule 3 ,P32942,19,10333776,10339661
+THBS4,cardiom,Thrombospondin-4 ,P35443,5,79991311,80083287
+SAA4,cardiom,Serum amyloid A-4 protein ,P35542,11,18231355,18236802
+TIE1,cardiom,Tyrosine-protein kinase receptor Tie-1 ,P35590,1,43300982,43323108
+COL18A1,cardiom,Collagen alpha-1 (XVIII) chain ,P39060,21,45405165,45513720
+PRCP,cardiom,Lysosomal Pro-X carboxypeptidase ,P42785,11,82822936,82970584
+NOTCH1,cardiom,Neurogenic locus notch homolog protein 1 ,P46531,9,136494433,136546048
+COMP,cardiom,Cartilage oligomeric matrix protein ,P49747,19,18782773,18791305
+PLTP,cardiom,Phospholipid transfer protein ,P55058,20,45898621,45912155
+CCL18,cardiom,C-C motif chemokine 18 ,P55774,17,36064272,36072032
+DEFA1,cardiom,Neutrophil defensin 1 ,P59665,8,6977649,6999195
+LCN2,cardiom,Neutrophil gelatinase-associated lipocalin ,P80188,9,128149071,128153453
+TGFBR3,cardiom,Transforming growth factor beta receptor type 3 ,Q03167,1,91680343,91906335
+REG3A,cardiom,Regenerating islet-derived protein 3-alpha ,Q06141,2,79157003,79159753
+EFEMP1,cardiom,EGF-containing fibulin-like extracellular matrix protein 1 ,Q12805,2,55865967,55924139
+FAP,cardiom,Prolyl endopeptidase FAP ,Q12884,2,162170684,162245151
+PLA2G7,cardiom,Platelet-activating factor acetylhydrolase ,Q13093,6,46704201,46735693
+PTPRS,cardiom,Receptor-type tyrosine-protein phosphatase S ,Q13332,19,5158495,5340803
+MFAP5,cardiom,Microfibrillar-associated protein 5 ,Q13361,12,8637346,8662888
+GAS6,cardiom,Growth arrest-specific protein 6 ,Q14393,13,113820549,113864076
+SPARCL1,cardiom,SPARC-like protein 1 ,Q14515,4,87473335,87531061
+LTBP2,cardiom,Latent-transforming growth factor beta-binding protein 2 ,Q14767,14,74498183,74612378
+PCOLCE,cardiom,Procollagen C-endopeptidase enhancer 1 ,Q15113,7,100602363,100608175
+FCN2,cardiom,Ficolin-2 ,Q15485,9,134880810,134887523
+TGFBI,cardiom,Transforming growth factor-beta-induced protein ig-h3 ,Q15582,5,136028988,136063818
+CCL14,cardiom,C-C motif chemokine 14 ,Q16627,17,35983288,35987004
+QPCT,cardiom,Glutaminyl-peptide cyclotransferase ,Q16769,2,37342827,37373322
+AOC3,cardiom,Membrane primary amine oxidase ,Q16853,17,42851184,42858130
+VASN,cardiom,Vasorin ,Q6EMK4,16,4371848,4383538
+LILRB2,cardiom,Leukocyte immunoglobulin-like receptor subfamily B member 2 ,Q8N423,19,54273812,54281184
+LILRB1,cardiom,Leukocyte immunoglobulin-like receptor subfamily B member 1 ,Q8NHL6,19,54547681,54569575
+TIMD4,cardiom,T-cell immunoglobulin and mucin domain-containing protein 4 ,Q96H15,5,156919292,156963226
+CNDP1,cardiom,Beta-Ala-His dipeptidase ,Q96KN2,18,74534500,74587212
+OSMR,cardiom,Oncostatin-M-specific receptor subunit beta ,Q99650,5,38845858,38945596
+C1QTNF1,cardiom,Complement C1q tumor necrosis factor-related protein 1 ,Q9BXJ1,17,79022814,79049788
+CFHR5,cardiom,Complement factor H-related protein 5 ,Q9BXR6,1,196977556,197009678
+MEGF9,cardiom,Multiple epidermal growth factor-like domains protein 9 ,Q9H1U4,9,120600811,120714470
+CRTAC1,cardiom,Cartilage acidic protein 1 ,Q9NQ79,10,97865000,98030828
+FETUB,cardiom,Fetuin-B ,Q9UGM5,3,186635969,186653141
+ANGPTL3,cardiom,Angiopoietin-related protein 3 ,Q9Y5C1,1,62597520,62606313
+LYVE1,cardiom,Lymphatic vessel endothelial hyaluronic acid receptor 1 ,Q9Y5Y7,11,10556966,10611689
+Gal-9,cardio2,Galectin-9 ,O00182,17,27649560,27629798
+TNFRSF10A,cardio2,Tumor necrosis factor receptor superfamily member 10A ,O00220,8,23225102,23190452
+AGRP,cardio2,Agouti-related protein ,O00253,16,67483547,67482571
+TRAIL-R2,cardio2,TNF-related apoptosis-inducing ligand receptor 2 ,O14763,8,23069031,23020133
+TNFRSF13B,cardio2,Tumor necrosis factor receptor superfamily member 13B ,O14836,17,16972118,16929816
+VEGFD,cardio2,Vascular endothelial growth factor D ,O43915,X,15384413,15345596
+Dkk-1,cardio2,Dickkopf-related protein 1 ,O94907,10,52318042,52314281
+REN,cardio2,Renin ,P00797,1,204190324,204154819
+PDGF subunit B,cardio2,Platelet-derived growth factor subunit B ,P01127,22,39244982,39223359
+GH,cardio2,Growth hormone ,P01241,17,63918839,63917200
+CD4,cardio2,T-cell surface glycoprotein CD4 ,P01730,12,6820799,6786858
+PIgR,cardio2,Polymeric immunoglobulin receptor ,P01833,1,206946466,206928522
+AMBP,cardio2,Protein AMBP ,P02760,9,114078328,114060127
+SOD2,cardio2,"Superoxide dismutase [Mn], mitochondrial ",P04179,6,159762529,159669069
+HSP 27,cardio2,Heat shock 27 kDa protein ,P04792,7,76304295,76302673
+IL6,cardio2,Interleukin-6 ,P05231,7,22732002,22725884
+LPL,cardio2,Lipoprotein lipase ,P06858,8,19967259,19901717
+TM,cardio2,Thrombomodulin TM ,P07204,20,23049672,23045633
+DCN,cardio2,Decorin ,P07585,12,91183217,91140484
+CTSL1,cardio2,Cathepsin L1 ,P07711,9,87731469,87724051
+MMP-7,cardio2,Matrix metalloproteinase-7 ,P09237,11,102530750,102520508
+CXCL1,cardio2,C-X-C motif chemokine 1 ,P09341,4,73871308,73869393
+HO-1,cardio2,Heme oxygenase 1 ,P09601,22,35394214,35380361
+PARP-1,cardio2,Poly [ADP-ribose] polymerase 1 ,P09874,1,226408154,226360210
+CCL3,cardio2,C-C motif chemokine 3 ,P10147,17,36090169,36088256
+FABP2,cardio2,"Fatty acid-binding protein, intestinal ",P12104,4,119322138,119317250
+SRC,cardio2,Proto-oncogene tyrosine-protein kinase Src ,P12931,20,37406050,37344685
+TF,cardio2,Tissue factor ,P13726,1,94541759,94529173
+BNP,cardio2,Natriuretic peptides B ,P16860,1,11858945,11857464
+IL-1ra,cardio2,Interleukin-1 receptor antagonist protein ,P18510,2,113134016,113107214
+FS,cardio2,Follistatin ,P19883,5,53487134,53480626
+SCF,cardio2,Stem cell factor ,P21583,12,88580851,88492793
+TGM2,cardio2,Protein-glutamine gamma-glutamyltransferase 2 ,P21980,20,38166578,38127385
+BMP-6,cardio2,Bone morphogenetic protein 6 ,P22004,6,7881728,7726099
+IL-4RA,cardio2,Interleukin-4 receptor subunit alpha ,P24394,16,27364778,27313668
+PAR-1,cardio2,Proteinase-activated receptor 1 ,P25116,5,76735770,76716126
+PTX3,cardio2,Pentraxin-related protein PTX3 ,P26022,3,157443633,157436850
+GIF,cardio2,Gastric intrinsic factor ,P27352,11,59845499,59829273
+CD40-L,cardio2,CD40 ligand ,P29965,X,136660390,136648158
+IgG Fc receptor II-b,cardio2,Low affinity immunoglobulin gamma Fc region receptor II-b,P31994,1,161678654,161663147
+CEACAM8,cardio2,Carcinoembryonic antigenrelated cell adhesion molecule 8 ,P31997,19,42595055,42580243
+CA5A,cardio2,"Carbonic anhydrase 5A, mitochondrial ",P35218,16,87936580,87881546
+ADM,cardio2,ADM ,P35318,11,10307397,10305073
+THBS2,cardio2,Thrombospondin-2 ,P35442,6,169254050,169215780
+IDUA,cardio2,Alpha-L-iduronidase ,P35475,4,1004564,986997
+MMP-12,cardio2,Matrix metalloproteinase-12 ,P39900,11,102874982,102862736
+THPO,cardio2,Thrombopoietin ,P40225,3,184381968,184371935
+LEP,cardio2,Leptin ,P41159,7,128257629,128241278
+XCL1,cardio2,Lymphotactin ,P47992,1,168582069,168576605
+PGF,cardio2,Placenta growth factor ,P49763,14,74955626,74941834
+GT,cardio2,Gastrotropin ,P51161,5,160238735,160187367
+PRELP,cardio2,Prolargin ,P51888,1,203491352,203475806
+LOX-1,cardio2,Lectin-like oxidized LDL receptor 1 ,P78380,12,10172138,10158301
+TIE2,cardio2,Angiopoietin-1 receptor ,Q02763,9,27230174,27109141
+GLO1,cardio2,Lactoylglutathione lyase ,Q04760,6,38703145,38675925
+MERTK,cardio2,Tyrosine-protein kinase Mer ,Q12866,2,112029561,111898607
+STK4,cardio2,Serine/threonine-protein kinase 4 ,Q13043,20,45080021,44966479
+PAPPA,cardio2,Pappalysin-1 ,Q13219,9,116402321,116153791
+IL16,cardio2,Pro-interleukin-16 ,Q14005,15,81314058,81159575
+IL-18,cardio2,Interleukin-18 ,Q14116,11,112164096,112143253
+PSGL-1,cardio2,P-selectin glycoprotein ligand 1 ,Q14242,12,108633894,108621895
+RAGE,cardio2,Receptor for advanced glycosylation end products ,Q15109,6,32184322,32180968
+ANG-1,cardio2,Angiopoietin-1 ,Q15389,8,107498055,107249482
+PRSS8 ,cardio2,Prostasin ,Q16651,16,31135727,31131433
+DECR1,cardio2,"2,4-dienoyl-CoA reductase, mitochondrial ",Q16698,8,90053633,90001405
+ADAM-TS13,cardio2,A disintegrin and metalloproteinase with thrombospondin motifs 13,Q76LX8,9,133459402,133414358
+SERPINA12,cardio2,Serpin A12 ,Q8IW75,14,94517844,94487274
+hOSCAR,cardio2,Osteoclast-associated immunoglobulin-like receptor ,Q8IYS5,19,54102692,54094668
+IL-27,cardio2,Interleukin-27 ,Q8NEV9,16,28512051,28499362
+IL-17D,cardio2,Interleukin-17D ,Q8TAD2,13,20723098,20702127
+CCL17,cardio2,C-C motif chemokine 17 ,Q92583,16,57416063,57404767
+KIM1,cardio2,Kidney Injury Molecule ,Q96D42,5,157059119,157029413
+VSIG2,cardio2,V-set and immunoglobulin domain-containing protein 2 ,Q96IQ7,11,124752255,124747474
+HB-EGF,cardio2,Proheparin-binding EGF-like growth factor ,Q99075,5,140346603,140332843
+SORT1,cardio2,Sortilin ,Q99523,1,109397918,109309568
+CTRC,cardio2,Chymotrypsin C ,Q99895,1,15449242,15438442
+PD-L2,cardio2,Programmed cell death 1 ligand 2 ,Q9BQ51,9,5571282,5510531
+PRSS27,cardio2,Serine protease 27 ,Q9BQR3,16,2720551,2712419
+SPON2,cardio2,Spondin-2 ,Q9BUD6,4,1208962,1166932
+Protein BOC,cardio2,Brother of CDO ,Q9BWV1,3,113287459,113211003
+ACE2,cardio2,Angiotensin-converting enzyme 2 ,Q9BYF1,X,15607236,15494566
+FGF-23,cardio2,Fibroblast growth factor 23 ,Q9GZV9,12,4379712,4368227
+IL1RL2,cardio2,Interleukin-1 receptor-like 2 ,Q9HB29,2,102240002,102187006
+SLAMF7,cardio2,SLAM family member 7 ,Q9NQ25,1,160754821,160739057
+FGF-21,cardio2,Fibroblast growth factor 21 ,Q9NSA1,19,48758333,48755524
+MARCO,cardio2,Macrophage receptor MARCO ,Q9UEW3,2,118994660,118942166
+CD84,cardio2,SLAM family member 5 ,Q9UIB8,1,160579516,160541095
+HAOX1,cardio2,Hydroxyacid oxidase 1 ,Q9UJM8,20,7940458,7882985
+GDF-2,cardio2,Growth/differentiation factor 2 ,Q9UK05,10,47327588,47322454
+ITGB1BP2,cardio2,Melusin ,Q9UKP3,X,71305371,71301750
+NEMO,cardio2,NF-kappa-B essential modulator ,Q9Y6K9,X,154565046,154541199
+TNFRSF11A,cardio2,Tumor necrosis factor receptor superfamily member 11A ,Q9Y6Q6,18,62391288,62325287
+AP-N,cardio3,Aminopeptidase N ,P15144,15,89784895,89815401
+AZU1,cardio3,Azurocidin ,P20160,19,825097,832018
+NT-proBNP,cardio3,N-terminal prohormone brain natriuretic peptide ,NA,1,11857464,11858945
+CCL24,cardio3,C-C motif chemokine 24 ,O00175,7,75810825,75823356
+OPG,cardio3,Osteoprotegerin ,O00300,8,118923557,118951885
+TNFRSF10C,cardio3,Tumor necrosis factor receptor superfamily member 10C ,O14798,8,23102921,23117445
+CCL16,cardio3,C-C motif chemokine 16 ,O15467,17,35976493,35981497
+PGLYRP1,cardio3,Peptidoglycan recognition protein 1 ,O75594,19,46019153,46023053
+IL-18BP,cardio3,Interleukin-18-binding protein ,O95998,11,71998613,72005715
+EGFR,cardio3,Epidermal growth factor receptor ,P00533,7,55019017,55211628
+uPA,cardio3,Urokinase-type plasminogen activator ,P00749,10,73909177,73917496
+t-PA,cardio3,Tissue-type plasminogen activator ,P00750,8,42174718,42207709
+LDL receptor,cardio3,Low-density lipoprotein receptor ,P01130,19,11089462,11133820
+IL2-RA,cardio3,Interleukin-2 receptor subunit alpha ,P01589,10,6010689,6062370
+MB,cardio3,Myoglobin ,P02144,22,35606764,35637951
+COL1A1,cardio3,Collagen alpha-1 (I) chain ,P02452,17,50184101,50201632
+TR,cardio3,Transferrin receptor protein 1 ,P02786,3,196027183,196082096
+CSTB,cardio3,Cystatin-B ,P04080,21,43772511,43776330
+PDGF subunit A,cardio3,Platelet-derived growth factor subunit A ,P04085,7,497258,520296
+vWF,cardio3,von Willebrand factor ,P04275,12,5948877,6124770
+ITGB2,cardio3,Integrin beta-2 ,P05107,21,44885953,44931989
+PAI,cardio3,Plasminogen activator inhibitor 1 ,P05121,7,101127104,101139247
+MPO,cardio3,Myeloperoxidase ,P05164,17,58269855,58280935
+CTSD,cardio3,Cathepsin D ,P07339,11,1752752,1764573
+MMP-2,cardio3,Matrix metalloproteinase-2 ,P08253,16,55389700,55506691
+MMP-3,cardio3,Matrix metalloproteinase-3 ,P08254,11,102835801,102843609
+IGFBP-1,cardio3,Insulin-like growth factor-binding protein 1 ,P08833,7,45888360,45893660
+IL-6RA,cardio3,Interleukin-6 receptor subunit alpha ,P08887,1,154405193,154469450
+OPN,cardio3,Osteopontin ,P10451,4,87975650,87983426
+TFPI,cardio3,Tissue factor pathway inhibitor ,P10646,2,187464230,187565760
+MCP-1,cardio3,Monocyte chemotactic protein 1 ,P13500,17,34255218,34257203
+ICAM-2,cardio3,Intercellular adhesion molecule 2 ,P13598,17,64002594,64020634
+TR-AP,cardio3,Tartrate-resistant acid phosphatase type 5 ,P13686,19,11574660,11579008
+IL-1RT1,cardio3,Interleukin-1 receptor type 1 ,P14778,2,102064544,102179874
+MMP-9,cardio3,Matrix metalloproteinase-9 ,P14780,20,46008908,46016561
+CPA1,cardio3,Carboxypeptidase A1 ,P15085,7,130380339,130388114
+CPB1,cardio3,Carboxypeptidase B ,P15086,3,148791102,148860187
+FABP4,cardio3,"Fatty acid-binding protein, adipocyte ",P15090,8,81478419,81483236
+SELP,cardio3,P-selectin ,P16109,1,169588849,169630193
+PECAM-1,cardio3,Platelet endothelial cell adhesion molecule ,P16284,17,64319415,64413776
+Ep-CAM,cardio3,Epithelial cell adhesion molecule ,P16422,2,47345158,47387601
+SELE,cardio3,E-selectin ,P16581,1,169722640,169764705
+Gal-3,cardio3,Galectin-3 ,P17931,14,55124110,55145423
+IGFBP-2,cardio3,Insulin-like growth factor-binding protein 2 ,P18065,2,216632828,216664436
+TNF-R1,cardio3,Tumor necrosis factor receptor 1 ,P19438,12,6328757,6342114
+PI3,cardio3,Elafin ,P19957,20,45174902,45176544
+TNF-R2,cardio3,Tumor necrosis factor receptor 2 ,P20333,1,12166991,12209228
+PRTN3,cardio3,Myeloblastin ,P24158,19,840999,848175
+FAS,cardio3,Tumor necrosis factor receptor superfamily member 6 ,P25445,10,88990531,89017059
+IL-1RT2,cardio3,Interleukin-1 receptor type 2 ,P27930,2,101991960,102028544
+GRN,cardio3,Granulins ,P28799,17,44345246,44353106
+AXL,cardio3,Tyrosine-protein kinase receptor UFO ,P30530,19,41219223,41261766
+CDH5,cardio3,Cadherin-5 ,P33151,16,66366622,66404784
+PSP-D,cardio3,Pulmonary surfactant-associated protein D ,P35247,10,79937467,79982614
+CHI3L1,cardio3,Chitinase-3-like protein 1 ,P36222,1,203178931,203186704
+LTBR,cardio3,Lymphotoxin-beta receptor ,P36941,12,6375045,6391571
+CASP-3,cardio3,Caspase-3 ,P42574,4,184627696,184649509
+EPHB4,cardio3,Ephrin type-B receptor 4 ,P54760,7,100802565,100827523
+Gal-4,cardio3,Galectin-4 ,P56470,19,38801671,38812945
+SHPS-1,cardio3,Tyrosine-protein phosphatase non-receptor type substrate 1 ,P78324,20,1894167,1940592
+DLK-1,cardio3,Protein delta homolog 1 ,P80370,14,100725705,100738224
+PLC,cardio3,Perlecan ,P98160,1,21822244,21937310
+ST2,cardio3,ST2 protein ,Q01638,2,102311502,102352037
+U-PAR,cardio3,Urokinase plasminogen activator surface receptor ,Q03405,19,43646095,43670547
+TFF3,cardio3,Trefoil factor 3 ,Q07654,21,42311667,42315651
+CNTN1,cardio3,Contactin-1 ,Q12860,12,40692439,41072415
+CHIT1,cardio3,Chitotriosidase-1 ,Q13231,1,203212827,203273641
+ALCAM,cardio3,CD166 antigen ,Q13740,3,105366909,105576900
+BLM hydrolase,cardio3,Bleomycin hydrolase ,Q13867,17,30248203,30292056
+PON3,cardio3,Paraoxonase ,Q15166,7,95359872,95396375
+IGFBP-7,cardio3,Insulin-like growth factor-binding protein 7 ,Q16270,4,57030773,57110385
+CCL15,cardio3,C-C motif chemokine 15 ,Q16663,17,35996440,36001553
+TLT-2,cardio3,Trem-like transcript 2 protein ,Q5T2D2,6,41189749,41201149
+CD163,cardio3,Scavenger receptor cysteine-rich type 1 protein M130 ,Q86VB7,12,7470811,7503893
+PCSK9,cardio3,Proprotein convertase subtilisin/kexin type 9 ,Q8NBP7,1,55039447,55064852
+KLK6,cardio3,Kallikrein-6 ,Q92876,19,50958631,50969673
+TNFRSF14,cardio3,Tumor necrosis factor receptor superfamily member 14 ,Q92956,1,2555639,2565382
+IL-17RA,cardio3,Interleukin-17 receptor A ,Q96F46,22,17084954,17115694
+SCGB3A2,cardio3,Secretoglobin family 3A member 2 ,Q96PL1,5,147870682,147882191
+TIMP4,cardio3,Metalloproteinase inhibitor 4 ,Q99727,3,12153068,12158912
+RARRES2,cardio3,Retinoic acid receptor responder protein 2 ,Q99969,7,150338317,150341662
+GDF-15,cardio3,Growth/differentiation factor 15 ,Q99988,19,18374731,18389176
+CXCL16,cardio3,C-X-C motif chemokine 16 ,Q9H2A7,17,4733533,4739928
+SPON1,cardio3,Spondin-1 ,Q9HCB6,11,13962723,14268133
+GP6,cardio3,Platelet glycoprotein VI ,Q9HCN6,19,55013705,55038264
+RETN,cardio3,Resistin ,Q9HD89,19,7669049,7670455
+CD93,cardio3,Complement component C1q receptor ,Q9NPY3,20,23079360,23086324
+MEPE,cardio3,Matrix extracellular phosphoglycoprotein ,Q9NQ76,4,87821411,87846817
+CTSZ,cardio3,Cathepsin Z ,Q9UBR2,20,58995185,59007254
+Notch 3,cardio3,Neurogenic locus notch homolog protein 3 ,Q9UM47,19,15159038,15200995
+TNFSF13B,cardio3,Tumor necrosis factor ligand superfamily member 13B ,Q9Y275,13,108251240,108308484
+JAM-A,cardio3,Junctional adhesion molecule A ,Q9Y624,1,160995211,161021343
+OPG,inflam,Osteoprotegerin ,O00300,8,118923557,118951885
+CXCL11,inflam,C-X-C motif chemokine 11 ,O14625,4,76033682,76041415
+TRANCE,inflam,TNF-related activation-induced cytokine ,O14788,13,42562736,42608013
+AXIN1,inflam,Axin-1 ,O15169,16,287440,352723
+CCL25,inflam,C-C motif chemokine 25 ,O15444,19,8052767,8062650
+TWEAK,inflam,"Tumor necrosis factor (Ligand) superfamily, member 12",O43508,17,7549058,7557890
+TNFSF14,inflam,Tumor necrosis factor ligand superfamily member 14,O43557,19,6661253,6670588
+STAMBP,inflam,STAM-binding protein ,O95630,2,73828916,73873659
+FGF-19,inflam,Fibroblast growth factor 19 ,O95750,11,69698238,69704022
+IL-33,inflam,Interleukin-33 ,O95760,9,6215786,6257983
+uPA,inflam,Urokinase-type plasminogen activator ,P00749,10,73909177,73917496
+ADA,inflam,Adenosine Deaminase ,P00813,20,44619522,44652233
+TGF-alpha,inflam,Transforming growth factor alpha ,P01135,2,70447284,70554193
+LAP TGF-beta-1,inflam,Latency-associated peptide transforming growth factor beta-1 ,P01137,19,41301587,41353922
+Beta-NGF,inflam,Beta-nerve growth factor ,P01138,1,115285917,115338256
+TNFB,inflam,TNF-beta ,P01374,6,31572054,31574324
+TNF,inflam,Tumor necrosis factor ,P01375,6,31575565,31578336
+IFN-gamma,inflam,Interferon gamma ,P01579,12,68154768,68159740
+IL-1 alpha,inflam,Interleukin-1 alpha ,P01583,2,112773925,112784493
+CD8A,inflam,T-cell surface glycoprotein CD8 alpha chain ,P01732,2,86784610,86808396
+CXCL10,inflam,C-X-C motif chemokine 10 ,P02778,4,76021118,76023497
+MMP-1,inflam,Matrix metalloproteinase-1 ,P03956,11,102789919,102798160
+IL-4,inflam,Interleukin-4 ,P05112,5,132673986,132682678
+IL5,inflam,Interleukin-5 ,P05113,5,132541445,132556838
+IL6,inflam,Interleukin-6 ,P05231,7,22725884,22732002
+CD5,inflam,T-cell surface glycoprotein CD5 ,P06127,11,61102489,61127852
+MMP-10,inflam,Matrix metalloproteinase-10 ,P09238,11,102770502,102780628
+CXCL1,inflam,C-X-C motif chemokine 1 ,P09341,4,73869393,73871308
+CSF-1,inflam,Macrophage colony-stimulating factor 1 ,P09603,1,109910242,109930992
+IL-8,inflam,Interleukin-8 ,P10145,4,73740541,73743716
+CCL3,inflam,C-C motif chemokine 3 ,P10147,17,36088256,36090169
+FGF-5,inflam,Fibroblast growth factor 5 ,P12034,4,80266599,80336680
+IL-7,inflam,Interleukin-7 ,P13232,8,78675743,78805523
+CCL4,inflam,C-C motif chemokine 4 ,P13236,17,36103827,36105621
+MCP-1,inflam,Monocyte chemotactic protein 1 ,P13500,17,34255218,34257203
+OSM,inflam,Oncostatin-M ,P13725,22,30262829,30266851
+HGF,inflam,Hepatocyte growth factor ,P14210,7,81699010,81770438
+IL-2RB,inflam,Interleukin-2 receptor subunit beta ,P14784,22,37125843,37175054
+LIF,inflam,Leukemia inhibitory factor ,P15018,22,30240453,30246759
+VEGF-A,inflam,Vascular endothelial growth factor A ,P15692,6,43770184,43786487
+NT-3,inflam,Neurotrophin-3 ,P20783,12,5432108,5521536
+SCF,inflam,Stem cell factor ,P21583,12,88492793,88580851
+IL10,inflam,Interleukin-10 ,P22301,1,206767602,206774541
+CD40,inflam,CD40L receptor ,P25942,20,46118278,46129863
+CST5,inflam,Cystatin D ,P28325,20,23875934,23879748
+IL-12B,inflam,Interleukin-12 subunit beta ,P29460,5,159314780,159330487
+CD6,inflam,T cell surface glycoprotein CD6 isoform ,P30203,11,60971680,61020377
+IL-13,inflam,Interleukin-13 ,P35225,5,132656263,132661110
+GDNF,inflam,Glial cell line-derived neurotrophic factor ,P39905,5,37812677,37840041
+LIF-R,inflam,Leukemia inhibitory factor receptor ,P42702,5,38474668,38608354
+CXCL5,inflam,C-X-C motif chemokine 5 ,P42830,4,73995642,73998677
+Flt3L,inflam,Fms-related tyrosine kinase 3 ligand ,P49771,19,49474207,49486231
+ST1A1,inflam,Sulfotransferase 1A1 ,P50225,16,28537040,28623555
+TRAIL,inflam,TNF-related apoptosis-inducing ligand ,P50591,3,172505508,172523475
+CCL11,inflam,Eotaxin ,P51671,17,34285742,34288334
+CCL23,inflam,C-C motif chemokine 23 ,P55773,17,36013056,36017972
+IL-2,inflam,Interleukin-2 ,P60568,4,122451470,122456725
+CX3CL1,inflam,Fractalkine ,P78423,16,57372477,57385044
+CCL20,inflam,C-C motif chemokine 20 ,P78556,2,227805739,227817564
+MCP-2,inflam,Monocyte chemotactic protein 2 ,P80075,17,34319435,34321402
+MCP-3,inflam,Monocyte chemotactic protein 3 ,P80098,17,34270221,34272242
+CXCL6,inflam,C-X-C motif chemokine 6 ,P80162,4,73836640,73849064
+EN-RAGE,inflam,Protein S100-A12 ,P80511,1,153373711,153375621
+TNFRSF9,inflam,Tumor necrosis factor receptor superfamily member 9,Q07011,1,7915871,7943165
+CXCL9,inflam,C-X-C motif chemokine 9 ,Q07325,4,76001275,76007509
+IL-10RB,inflam,Interleukin-10 receptor subunit beta ,Q08334,21,33266367,33310187
+IL-24,inflam,Interleukin-24 ,Q13007,1,206897443,206904139
+IL-15RA,inflam,Interleukin-15 receptor subunit alpha ,Q13261,10,5943639,5978187
+SLAMF1,inflam,Signaling lymphocytic activation molecule ,Q13291,1,160608106,160647295
+IL-18R1,inflam,Interleukin-18 receptor 1 ,Q13478,2,102311529,102398777
+4E-BP1,inflam,Eukaryotic translation initiation factor 4E-binding protein 1 ,Q13541,8,38030534,38060365
+IL-10RA,inflam,Interleukin-10 receptor subunit alpha ,Q13651,11,117986370,118003037
+IL-18,inflam,Interleukin-18 ,Q14116,11,112143253,112164096
+CASP-8,inflam,Caspase-8 ,Q14790,2,201233443,201287711
+IL-17A,inflam,Interleukin-17A ,Q16552,6,52186375,52190638
+ARTN,inflam,Artemin ,Q5T4W7,1,43933320,43937240
+SIRT2,inflam,SIR2-like protein 2 ,Q8IXJ6,19,38878555,38899862
+IL-22 RA1,inflam,Interleukin-22 receptor subunit alpha-1 ,Q8N6P7,1,24119771,24143140
+DNER,inflam,Delta and Notch-like epidermal growth factor-related receptor ,Q8NFT8,2,229357629,229714555
+TSLP,inflam,Thymic stromal lymphopoietin ,Q969D9,5,111070062,111078026
+MCP-4,inflam,Monocyte chemotactic protein 4 ,Q99616,17,34356480,34358610
+CCL19,inflam,C-C motif chemokine 19 ,Q99731,9,34689570,34691276
+NRTN,inflam,Neurturin ,Q99748,19,5823802,5828324
+CD244,inflam,Natural killer cell receptor 2B4 ,Q9BZW8,1,160830160,160862887
+FGF-23,inflam,Fibroblast growth factor 23 ,Q9GZV9,12,4368227,4379712
+CDCP1,inflam,CUB domain-containing protein 1 ,Q9H5V8,3,45082277,45146422
+CCL28,inflam,C-C motif chemokine 28 ,Q9NRJ3,5,43376645,43412391
+FGF-21,inflam,Fibroblast growth factor 21 ,Q9NSA1,19,48755524,48758333
+IL-20,inflam,Interleukin-20 ,Q9NYY1,1,206865354,206869223
+PD-L1,inflam,Programmed cell death 1 ligand 1 ,Q9NZQ7,9,5450503,5470566
+IL-17C,inflam,Interleukin-17C ,Q9P0M4,16,88638572,88640468
+IL-20RA,inflam,Interleukin-20 receptor subunit alpha ,Q9UHF4,6,136999971,137045180
+PSMD9,oncol,26S proteasome non-ATPase regulatory subunit 9 ,O00233,12,121888732,121918297
+HSPB6,oncol,Heat shock protein beta-6 ,O14558,19,35754566,35758079
+FOXO3,oncol,Forkhead box protein O3 ,O43524,6,108559835,108684774
+ACTN4,oncol,Alpha-actinin-4 ,O43707,19,38647649,38731589
+PSPN,oncol,Persephin ,O60542,19,6375148,6379058
+SPINK4,oncol,Serine protease inhibitor Kazal-type 4 ,O60575,9,33218365,33248567
+USO1,oncol,General vesicular transport factor p115 ,O60763,4,75724577,75814286
+TBL1X,oncol,F-box-like/WD repeat-containing protein TBL1X ,O60907,X,9463295,9741037
+RP2,oncol,Protein XRP2 ,O75695,X,46837043,46882358
+SCGN,oncol,Secretagogin ,O76038,6,25652201,25701783
+TNFAIP8,oncol,Tumor necrosis factor alpha-induced protein 8 ,O95379,5,119268692,119399688
+CXCL14,oncol,C-X-C motif chemokine 14 ,O95715,5,135570679,135579279
+NPY,oncol,Pro-neuropeptide Y ,P01303,7,24284188,24291862
+IL1B,oncol,Interleukin-1 beta ,P01584,2,112829751,112836816
+JCHAIN,oncol,Immunoglobulin J chain ,P01591,4,70655541,70681817
+C1QA,oncol,Complement C1q subcomponent subunit A ,P02745,1,22636628,22639678
+AFP,oncol,Alpha-fetoprotein ,P02771,4,73431138,73456174
+ALPP,oncol,"Alkaline phosphatase, placental type ",P05187,2,232378724,232382889
+HEXA,oncol,Beta-hexosaminidase subunit alpha ,P06865,15,72340924,72376420
+HMBS,oncol,Porphobilinogen deaminase ,P08397,11,119084866,119093549
+HBQ1,oncol,Hemoglobin subunit theta-1 ,P09105,16,180459,181179
+ACAA1,oncol,Peroxisomal 3-ketoacyl-CoA thiolase ,P09110,3,38103129,38137242
+CGB3,oncol,Choriogonadotropin subunit beta 3 ,P0DN86,19,49022869,49045311
+MLN,oncol,Promotilin ,P12872,6,33794673,33804003
+SCG2,oncol,Secretogranin-2 ,P13521,2,223596940,223602361
+TPT1,oncol,Translationally-controlled tumor protein ,P13693,13,45333471,45341284
+HLA-E,oncol,"HLA class I histocompatibility antigen, alpha chain E ",P13747,6,30489509,30494194
+AKR1B1,oncol,Aldose reductase ,P15121,7,134442356,134459284
+FLT1,oncol,Vascular endothelial growth factor receptor 1 ,P17948,13,28300346,28495145
+CD22,oncol,B-cell receptor CD22 ,P20273,19,35319261,35347361
+RAB6A,oncol,Ras-related protein Rab-6A ,P20340,11,73675638,73761137
+COL9A1,oncol,Collagen alpha-1 (IX) chain ,P20849,6,70216040,70303084
+PTPRM,oncol,Receptor-type tyrosine-protein phosphatase mu ,P28827,18,7566782,8406861
+LAP3,oncol,Cytosol aminopeptidase ,P28838,4,17577192,17607972
+CDC27,oncol,Cell division cycle protein 27 homolog ,P30260,17,47117703,47189422
+L1CAM,oncol,Neural cell adhesion molecule L1 ,P32004,X,153861514,153886173
+LSP1,oncol,Lymphocyte-specific protein 1 ,P33241,11,1850904,1892267
+FUS,oncol,RNA-binding protein FUS ,P35637,16,31180138,31191605
+FLT3,oncol,Receptor-type tyrosine-protein kinase FLT3 ,P36888,13,28003274,28100592
+IFNGR2,oncol,Interferon gamma receptor 2 ,P38484,21,33403413,33479348
+ARHGAP25,oncol,Rho GTPase-activating protein 25 ,P42331,2,68679601,68826833
+CASP2,oncol,Caspase-2 ,P42575,7,143288215,143307696
+NAMPT,oncol,Nicotinamide phosphoribosyltransferase ,P43490,7,106248298,106286326
+CCT5,oncol,T-complex protein 1 subunit epsilon ,P48643,5,10249929,10266389
+INPP1,oncol,Inositol polyphosphate 1-phosphatase ,P49441,2,190343570,190371665
+TPMT,oncol,Thiopurine S-methyltransferase ,P51580,6,18128311,18155077
+AIF1,oncol,Allograft inflammatory factor 1 ,P55008,6,31615217,31617021
+DRG2,oncol,Developmentally-regulated GTP-binding protein 2 ,P55039,17,18087892,18107970
+GFER,oncol,FAD-linked sulfhydryl oxidase ALR ,P55789,16,1984193,1987749
+NCS1,oncol,Neuronal calcium sensor 1 ,P62166,9,130172404,130237303
+PCDH1,oncol,Protocadherin-1 ,Q08174,5,141853090,141879246
+AIMP1,oncol,Aminoacyl tRNA synthase complex-interacting multifunctional protein 1 ,Q12904,4,106315544,106349456
+MYO9B,oncol,Unconventional myosin-IXb ,Q13459,19,17075781,17214537
+ELOA,oncol,Elongin-A ,Q14241,1,23743155,23762059
+GAMT,oncol,Guanidinoacetate N-methyltransferase ,Q14353,19,1397026,1401570
+ICAM4,oncol,Intercellular adhesion molecule 4 ,Q14773,19,10286955,10288522
+CD300E,oncol,CMRF35-like molecule 2 ,Q496F6,17,74609885,74623738
+LACTB2,oncol,Endoribonuclease LACTB2 ,Q53H82,8,70635318,70669185
+VPS53,oncol,Vacuolar protein sorting-associated protein 53 homolog ,Q5VIR6,17,508668,721717
+VWA1,oncol,von Willebrand factor A domain-containing protein 1 ,Q6PCB0,1,1434861,1442882
+VMO1,oncol,Vitelline membrane outer layer protein 1 homolog ,Q7Z5L0,17,4785285,4786433
+YTHDF3,oncol,YTH domain-containing family protein 3 ,Q7Z739,8,63168553,63212786
+GALNT7,oncol,N-acetylgalactosaminyltransferase 7 ,Q86SF2,4,173168811,173323967
+SFTPA1,oncol,Pulmonary surfactant-associated protein A1 ,Q8IWL2,10,79610939,79615455
+VPS37A,oncol,Vacuolar protein sorting-associated protein 37A ,Q8NEZ2,8,17246931,17302427
+BRK1,oncol,Protein BRICK1 ,Q8WUW1,3,10115675,10127190
+NELL1,oncol,Protein kinase C-binding protein NELL1 ,Q92832,11,20669551,21575686
+PTP4A1,oncol,Protein tyrosine phosphatase type IVA 1 ,Q93096,6,63521746,63583436
+S100A16,oncol,Protein S100-A16 ,Q96FQ6,1,153606886,153613145
+SCLY,oncol,Selenocysteine lyase ,Q96I15,2,238060924,238099413
+TXD15,oncol,Thioredoxin domain-containing protein 15 ,Q96J42,5,134874371,134901635
+IL17F,oncol,Interleukin-17F ,Q96PD4,6,52236681,52244500
+VAT1,oncol,Synaptic vesicle membrane protein VAT-1 homolog ,Q99536,17,43014607,43025123
+GPA33,oncol,Cell surface A33 antigen ,Q99795,1,167052836,167166479
+ERP44,oncol,Endoplasmic reticulum resident protein 44 ,Q9BS26,9,99979185,100099000
+UBAC1,oncol,Ubiquitin-associated domain-containing protein 1 ,Q9BSL1,9,135932969,135961373
+CDHR2,oncol,Cadherin-related family member 2 ,Q9BYE9,5,176542511,176595974
+NT5C3A,oncol,Cytosolic 5'-nucleotidase 3A ,Q9H0P0,7,33014114,33062797
+CPVL,oncol,Probable serine carboxypeptidase CPVL ,Q9H3G5,7,28995235,29195451
+DCTPP1,oncol,dCTP pyrophosphatase 1 ,Q9H773,16,30423615,30430030
+MANSC1,oncol,MANSC domain-containing protein 1 ,Q9H8J5,12,12326056,12350242
+GOPC,oncol,Golgi-associated PDZ and coiled-coil motif-containing protein ,Q9HD26,6,117560269,117602542
+CBLN4,oncol,Cerebellin-4 ,Q9NTU7,20,55997357,56005519
+CALCOCO1,oncol,Calcium-binding and coiled-coil domain-containing protein 1 ,Q9P1Z2,12,53708517,53727745
+CLIP2,oncol,CAP-Gly domain-containing linker protein 2 ,Q9UDT6,7,74289407,74405935
+SEPT9,oncol,Septin-9 ,Q9UHD8,17,77280569,77500596
+GGA1,oncol,ADP-ribosylation factor-binding protein GGA1 ,Q9UJY5,22,37608725,37633564
+ICAM5,oncol,Intercellular adhesion molecule 5 ,Q9UMF0,19,10289952,10296778
+CNPY2,oncol,Protein canopy homolog 2 ,Q9Y2B0,12,56309842,56316119
+KLK4,oncol,Kallikrein-4 ,Q9Y5K2,19,50906352,50910738
+ATP6V1D,oncol,V-type proton ATPase subunit D ,Q9Y5K8,14,67294371,67360265
+RFNG,oncol,"Beta-1,3-N-acetylglucosaminyltransferase radical fringe ",Q9Y644,17,82047902,82051831
+CD38,neurol,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1 ,P28907,4,15778275,15853232
+Alpha-2-MRAP,neurol,Alpha-2-macroglobulin receptor-associated protein ,P30533,4,3503612,3532446
+NTRK2,neurol,BDNF/NT-3 growth factors receptor ,Q16620,9,84668551,85027054
+Beta-NGF,neurol,Beta-nerve growth factor ,P01138,1,115285917,115338256
+BMP-4,neurol,Bone morphogenetic protein 4 ,P12644,14,53949736,53958761
+BCAN,neurol,Brevican core protein ,Q96GW7,1,156641390,156659532
+VWC2,neurol,Brorin ,Q2TAL6,7,49773638,49921950
+CDH3,neurol,Cadherin-3 ,P22223,16,68636189,68722616
+CDH6,neurol,Cadherin-6 ,P55285,5,31193686,31329146
+CPA2,neurol,Carboxypeptidase A2 ,P48052,7,130266863,130289798
+CPM,neurol,Carboxypeptidase M ,P14384,12,68842197,68971570
+CTSS,neurol,Cathepsin S ,P25774,1,150730188,150765792
+CADM3,neurol,Cell adhesion molecule 3 ,Q8N126,1,159171609,159203313
+CD200R1,neurol,Cell surface glycoprotein CD200 receptor 1 ,Q8TD46,3,112921205,112975103
+CLM-1,neurol,CMRF35-like molecule 1 ,Q8TDQ1,17,74694311,74712978
+CLM-6,neurol,CMRF35-like molecule 6 ,Q08708,17,74541073,74546115
+CNTN5,neurol,Contactin-5 ,O94779,11,99020949,100358885
+CLEC1B,neurol,C-type lectin domain family 1 member B ,Q9P126,12,9985642,10013424
+CLEC10A,neurol,C-type lectin domain family 10 member A ,Q8IUN9,17,7074537,7080307
+CRTAM,neurol,Cytotoxic and regulatory T-cell molecule ,O95727,11,122838500,122872643
+Dkk-4,neurol,Dickkopf-related protein 4 ,Q9UBT3,8,42374063,42377229
+CTSC,neurol,Dipeptidyl peptidase 1 ,P53634,11,88265069,88359684
+ADAM 22,neurol,Disintegrin and metalloproteinase domain-containing protein 22 ,Q9P0K1,7,87934143,88202889
+ADAM 23,neurol,Disintegrin and metalloproteinase domain-containing protein 23 ,O75077,2,206443532,206621127
+DRAXIN,neurol,Draxin ,Q8NBI3,1,11691710,11725857
+EPHB6,neurol,Ephrin type-B receptor 6 ,O15197,7,142855061,142871094
+EFNA4,neurol,Ephrin-A4 ,P52798,1,155063737,155069553
+DDR1,neurol,Epithelial discoidin domain-containing receptor 1 ,Q08345,6,30876421,30900156
+EZR,neurol,Ezrin ,P15311,6,158765741,158819368
+FcRL2,neurol,Fc receptor-like protein 2 ,Q96LA5,1,157745733,157777132
+gal-8,neurol,Galectin-8 ,O00214,1,236518000,236552981
+GFR-alpha-1,neurol,GDNF family receptor alpha-1 ,P56159,10,116056925,116273284
+GDNFR-alpha-3,neurol,GDNF family receptor alpha-3 ,O60609,5,138252380,138274621
+GDNF,neurol,Glial cell line-derived neurotrophic factor ,P39905,5,37812677,37840041
+GCP5,neurol,Glypican-5 ,P78333,13,91398621,92873682
+G-CSF,neurol,Granulocyte Colony-Stimulating Factor ,P09919,17,40015361,40017813
+GM-CSF-R-alpha,neurol,Granulocyte-macrophage colony-stimulating factor receptor subunit alpha ,P15509,X,1268800,1310381
+GZMA,neurol,Granzyme A ,P12544,5,55102646,55110252
+GDF-8,neurol,Growth/differentiation factor 8 ,O14793,2,190055700,190062729
+HAGH,neurol,"Hydroxyacylglutathione hydrolase, mitochondrial ",Q16775,16,1795620,1827157
+IL-5R-alpha,neurol,Interleukin-5 receptor subunit alpha ,Q01344,3,3066324,3126613
+IL-12,neurol,Interleukin-12 ,P29460,5,159314780,159330487
+JAM-B,neurol,Junctional adhesion molecule B ,P57087,21,25639258,25717562
+KYNU,neurol,Kynureninase ,Q16719,2,142877657,143055833
+LXN,neurol,Latexin ,Q9BS40,3,158645822,158672648
+LAYN,neurol,Layilin ,Q6UX15,11,111540280,111561745
+FLRT2,neurol,Leucine-rich repeat transmembrane protein FLRT2 ,O43155,14,85530144,85654428
+LAIR-2,neurol,Leukocyte-associated immunoglobulin-like receptor 2 ,Q6ISS4,19,54497879,54510687
+LAT,neurol,Linker for activation of T-cells family member 1 ,O43561,16,28984826,28990784
+SCARB2,neurol,Lysosome membrane protein 2 ,Q14108,4,76158737,76234536
+MSR1,neurol,Macrophage scavenger receptor types I and II ,P21757,8,16107878,16567490
+MDGA1,neurol,MAM domain-containing glycosylphosphatidylinositol anchor protein 1,Q8NFP4,6,37630679,37699306
+MATN3,neurol,Matrilin-3 ,O15232,2,19992052,20012668
+MANF,neurol,Mesencephalic astrocyte-derived neurotrophic factor ,P55145,3,51385291,51389397
+MAPT,neurol,Microtubule-associated protein tau ,P10636,17,45894551,46028334
+NAAA,neurol,N-acylethanolamine-hydrolyzing acid amidase ,Q02083,4,75913660,75941013
+NEP,neurol,Neprilysin ,P08473,3,155024124,155183704
+UNC5C,neurol,Netrin receptor UNC5C ,O95185,4,95162504,95549206
+NBL1,neurol,Neuroblastoma suppressor of tumorigenicity 1 ,P41271,1,19596979,19658456
+NCAN,neurol,Neurocan core protein ,O14594,19,19211958,19252233
+Nr-CAM,neurol,Neuronal cell adhesion molecule ,Q92823,7,108147623,108456717
+NRP2,neurol,Neuropilin-2 ,O60462,2,205681990,205798133
+N-CDase,neurol,Neutral ceramidase ,Q9NR71,10,50182778,50279720
+NMNAT1,neurol,Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 1 ,Q9HAN9,1,9943428,9985501
+N2DL-2,neurol,NKG2D ligand 2 ,Q9BZM5,6,149942014,149949235
+NTRK3,neurol,NT-3 growth factor receptor ,Q16288,15,87859751,88256768
+CD200,neurol,OX-2 membrane glycoprotein ,P41217,3,112332347,112362812
+PDGF-R-alpha,neurol,Platelet-derived growth factor receptor alpha ,P16234,4,54229280,54298245
+PLXNB1,neurol,Plexin-B1 ,O43157,3,48403854,48430086
+PLXNB3,neurol,Plexin-B3 ,Q9ULL4,X,153764196,153779346
+PVR,neurol,Poliovirus receptor ,P15151,19,44643798,44666162
+PRTG,neurol,Protogenin ,Q2VWP7,15,55611544,55743152
+RGMA,neurol,Repulsive guidance molecule A ,Q96B86,15,93035273,93089204
+RGMB,neurol,RGM domain family member B ,Q6NW40,5,98768650,98798643
+ROBO2,neurol,Roundabout homolog 2 ,Q9HCK4,3,75906695,77649964
+RSPO1,neurol,R-spondin-1 ,Q2MKA7,1,37611350,37634892
+SCARA5,neurol,Scavenger receptor class A member 5 ,Q6ZMJ2,8,27869883,27992673
+SCARF2,neurol,Scavenger receptor class F member 2 ,Q96GP6,22,20424584,20437826
+sFRP-3,neurol,Secreted frizzled-related protein 3 ,Q92765,2,182833275,182866637
+SKR3,neurol,Serine/threonine-protein kinase receptor R3 ,P37023,12,51906908,51923361
+Siglec-9,neurol,Sialic acid-binding Ig-like lectin 9 ,Q9Y336,19,51124908,51136651
+SIGLEC1,neurol,Sialoadhesin ,Q9BZZ2,20,3686970,3707128
+SMOC2,neurol,SPARC-related modular calcium-binding protein 2 ,Q9H3U7,6,168441151,168673445
+SMPD1,neurol,Sphingomyelin phosphodiesterase ,P17405,11,6390440,6394998
+TN-R,neurol,Tenascin-R ,Q92752,1,175315194,175743616
+SPOCK1,neurol,Testican-1 ,Q08629,5,136975298,137598379
+THY 1,neurol,Thy-1 membrane glycoprotein ,P04216,11,119415476,119424985
+TMPRSS5,neurol,Transmembrane protease serine 5 ,Q9H3S3,11,113687547,113706373
+TNFRSF12A,neurol,Tumor necrosis factor receptor superfamily member 12A ,Q9NP84,16,3018445,3022383
+TNFRSF21,neurol,Tumor necrosis factor receptor superfamily member 21 ,O75509,6,47231532,47309905
+EDA2R,neurol,Tumor necrosis factor receptor superfamily member 27 ,Q9HAV5,X,66595637,66639298
+WFIKKN1,neurol,"WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 1",Q96NZ8,16,629239,634117
