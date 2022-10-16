@@ -20,13 +20,31 @@
 - Samples were included only if they had complete data for all covariates and protein data. 
 - In total, 1002 samples were included in the analysis. 
 
+![plot](PWAS.png)
+Original figure from *Brandes, N., Linial, N. & Linial, M. PWAS: proteome-wide association study—linking genes and phenotypes by functional variation in proteins. Genome Biol 21, 173 (2020)*
+
+## Proposed method
+1. Divide samples by GWAS (1/3), model training (1/3), model testing (1/3)
+2. Perform proteomic GWAS and select nominally significant variants to be used in model training 
+
+$$\text{Protein Level} \sim \text{Covariates + Single genetic variant (SNP) }$$
+
+3. Perform EN model training on nominally significant variants obtained from previous step on training samples
+
+$$\text{Protein Level} \sim \text{Significant Variants (pQTLs)}$$
+
+4. Perform model evaluation of previously trained model on testing samples
+5. Perform association study of phenotype by predicted Protein Level
+
+![plot](Proposed method.jpg)
 
 ## :file_folder: Methods
 
 ### :file_folder: proposed
 
-Proposed method: 
-Simulation for Scenario 1: correctly specified nuisance functions
+
+
+
 
 - :page_facing_up: main.sh
 - :page_facing_up: pwas_training.R
