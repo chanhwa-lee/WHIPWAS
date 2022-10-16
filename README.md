@@ -25,7 +25,7 @@ Original figure from *Brandes, N., Linial, N. & Linial, M. PWAS: proteome-wide a
 
 ## Proposed method
 1. Divide samples by GWAS (1/3), model training (1/3), model testing (1/3)
-2. Perform proteomic GWAS and select nominally significant variants to be used in model training 
+2. Perform proteomic GWAS and select nominally significant variants to be used in model training using EPACTS
 
 $$\text{Protein Level} \sim \text{Covariates + Single genetic variant (SNP) }$$
 
@@ -36,70 +36,39 @@ $$\text{Protein Level} \sim \text{Significant Variants (pQTLs)}$$
 4. Perform model evaluation of previously trained model on testing samples
 5. Perform association study of phenotype by predicted Protein Level
 
-![plot](Proposed method.jpg)
+![plot](Proposedmethod.jpg)
 
 ## :file_folder: Methods
 
 ### :file_folder: proposed
 
+- :page_facing_up: main.sh: Main bash script file to perform proposed protein prediction model training and testing
+- :page_facing_up: pwas_training.R: R file to train CV Elastic Net model
+- :page_facing_up: pwas_testing.R: R file to test prediction model
 
 
+### :file_folder: cisonly
 
+Build protein prediction model with cis variants only (analogous to TWAS, no Step in the proposed method)
 
-- :page_facing_up: main.sh
-- :page_facing_up: pwas_training.R
-- :page_facing_up: pwas_testing.R
+- :page_facing_up: main.sh: Main bash script file to perform protein prediction model training and testing with cis variants only
+- :page_facing_up: pwas_training.R: R file to train CV Elastic Net model
+- :page_facing_up: pwas_testing.R: R file to test prediction model
 
+### :file_folder: BGW-TWAS (Directory not included in this repo. Refer to [here](https://github.com/yanglab-emory/BGW-TWAS))
 
-> #### :file_folder: Code
-> - :page_facing_up: Estimand_Cor.R: Causal estimands approximation
-> - :page_facing_up: Estimator_Cor.R: Proposed esimators computation
-> - :page_facing_up: Helpfunc_Cor.R: R functions for estimand and estimator computation
-> - :page_facing_up: ReadResult_Cor.R: Read and summarize simulation result
-> 
-> #### :file_folder: Data_parallel
-> - Simulated data from parallel computing
-> 
-> #### :file_folder: Result_parallel
-> - Simulation result for Scenario 1
-
-### :file_folder: scenario_mis
-Simulation for mis-specified nuisance functions scenario
-
-> #### :file_folder: Code
-> - :page_facing_up: Estimand_Mis.R: Causal estimands approximation
-> - :page_facing_up: Estimator_Mis.R: Proposed esimators computation
-> - :page_facing_up: Helpfunc_Mis.R: R functions for estimand and estimator computation
-> - :page_facing_up: ReadResult_Mis.R: Read and summarize simulation result
-> 
-> #### :file_folder: Data_parallel
-> - Simulated data from parallel computing
-> 
-> #### :file_folder: Result_parallel
-> - Simulation result for Scenario 2
-
-### :page_facing_up: siumulation.xlsx
-Simulation results for both Scenarios organized
+Build protein prediction model using BGW-TWAS method (Bayesian variable selection of Cis & Trans variants)
 
 ## :file_folder: Results
 
-### Senegal DHS data [(ANSD and ICF, 2020)](https://www.dhsprogram.com/pubs/pdf/FR368/FR368.pdf)
-- Sociodemographic, enviromental, and health-related survey on household members 
-- Used to assess the effect of WASH facilities on diarrhea incidence among children, allowing for interference within census blocks
-- Download the data from [https://dhsprogram.com/data/available-datasets.cfm](https://dhsprogram.com/data/available-datasets.cfm) 
-(requires data request submission) and place the datasets in "Data/DHS/" by following procedure:
-  - Senegal: Continuous DHS, 2015 -> (download) SNKR7HDT.ZIP -> (uncompress) SNKR7HFL.DTA -> (rename) senegal15.DTA
-  - Senegal: Continuous DHS, 2016 -> (download) SNKR7IDT.ZIP -> (uncompress) SNKR7IFL.DTA -> (rename) senegal16.DTA
-  - Senegal: Continuous DHS, 2017 -> (download) SNKR7ZDT.ZIP -> (uncompress) SNKR7ZFL.DTA -> (rename) senegal17.DTA
-  - Senegal: Continuous DHS, 2018 -> (download) SNKR81DT.ZIP -> (uncompress) SNKR81FL.DTA -> (rename) senegal18.DTA
-  - Senegal: Continuous DHS, 2019 -> (download) SNKR8BDT.ZIP -> (uncompress) SNKR8BFL.DTA -> (rename) senegal19.DTA
+- :page_facing_up: scatterplots.pdf: Comparison of testing accuracies between prediction methods
+- :page_facing_up: venndiagram.pdf: Number of sucessfully trained prediction models by methods
+- :page_facing_up: violinplots.pdf: Violin plots of testing accuracies by methods
 
+![plot](Table1.png)
 
-## Result
+- For certain proteins, the proposed methods provide a better prediction result compared to TWAS-like methods
 
-![plot](Data/DHS/95CIs.jpg)
+![plot](Table2.png)
 
-- Household WASH facilities protect children from diarrhea, and the protective effects increase when neighboring households also have WASH facilities. 
-- Childrenin WASH households can gain additional protective effect as more neighboring households are equipped with WASH facilities, which is not true for children from households without WASH facilities. 
-- Therefore, it is important to install as many WASH facilities as possible
-to prevent diarrhea among children.
+- Particular diseases are related with certain protein levels, both for predicted by the proposed methods and measured from WHI participants
